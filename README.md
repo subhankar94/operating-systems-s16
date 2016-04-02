@@ -1,4 +1,4 @@
-# operating-systems-s16
+# Operating Systems (Spring 2016)
 
 This repository contains my solutions to the labs from Allan Gottlieb's 
 Operating Systems class.
